@@ -1,9 +1,11 @@
-﻿namespace NetworkProgram;
+﻿using System.Net;
+namespace NetworkProgram;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        TcpServerApp serverApp = new TcpServerApp();
+        serverApp.ServerRun(IPAddress.Loopback.ToString());
     }
 }

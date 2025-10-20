@@ -1,0 +1,15 @@
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\bin\Debug\net9.0\NetworkProgram.exe
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\bin\Debug\net9.0\NetworkProgram.deps.json
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\bin\Debug\net9.0\NetworkProgram.runtimeconfig.json
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\bin\Debug\net9.0\NetworkProgram.dll
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\bin\Debug\net9.0\NetworkProgram.pdb
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.AssemblyInfoInputs.cache
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.AssemblyInfo.cs
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.csproj.CoreCompileInputs.cache
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.sourcelink.json
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.dll
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\refint\NetworkProgram.dll
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.pdb
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\NetworkProgram.genruntimeconfig.cache
+D:\Phikozz\Projects\NetworkProgram\NetworkProgram\obj\Debug\net9.0\ref\NetworkProgram.dll
