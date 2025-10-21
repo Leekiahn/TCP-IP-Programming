@@ -8,9 +8,9 @@
 ## 📂 프로젝트 구조
 
 NetworkProgram/
-├── Program.cs # 서버와 클라이언트 실행 제어 (엔트리 포인트)
-├── TcpServerApp.cs # TCP 서버 기능 (TcpListener 기반)
-├── TcpClientApp.cs # TCP 클라이언트 기능 (TcpClient 기반)
+├── Program.cs # 서버와 클라이언트 실행 제어 (엔트리 포인트)  
+├── TcpServerApp.cs # TCP 서버 기능 (TcpListener 기반)  
+├── TcpClientApp.cs # TCP 클라이언트 기능 (TcpClient 기반)  
 
 ---
 
